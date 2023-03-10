@@ -1,0 +1,24 @@
+You are going to create a ReactJS application that manipulates a cash balance on an account using Redux.
+
+● This app should contain 4 buttons named:
+    ○ Withdraw,
+    ○ Deposit,
+    ○ Add Interest,
+    ○ and Charges.
+
+● It must also include one input box that you will use to enter the amount that you wish to deposit or withdraw.
+    ○ Include the space to view your balance as it gets updated.
+
+● The store will store the current balance of the account.
+
+● If the Deposit button is clicked, the balance amount should increase
+by the input value from the input box.
+
+● If the Withdraw button is clicked, the balance amount should
+decrease by the input value from the input box.
+
+● If the Add Interest button is clicked, the balance amount should
+increase by 5%.
+
+● If the Charges button is clicked, the balance amount should decrease
+by 15%.
